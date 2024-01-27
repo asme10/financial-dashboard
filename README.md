@@ -1,8 +1,42 @@
-# React + Vite
+# Financial dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+I have created a financial dashboard using React JS, Vite, and Tailwind CSS. The purpose of this project is to gain an  experience using Tailwind CSS with React JS.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+
+### Prerequisites
+
+Ensure the following are installed on your system:
+
+- [npm](https://www.npmjs.com/package/npm)
+- [React JS](https://react.dev/learn)
+- [Vite](https://vitejs.dev/guide/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## How to Run
+
+To install the required NPM packages, use:
+
+- ```bash
+      npm install
+
+  ```
+
+To open the current page on a browser, use:
+
+- ```bash
+      npm run dev
+
+  ```
+
+## Author
+
+- [Asme](https://mesuna.netlify.app)
+
+## Acknowledgments
+
+This is might help you to undertand and enjoy React JS and Tailwind CSS as a web developer.
+
+Learn More here [Mesuna](https://mesuna.netlify.app)
