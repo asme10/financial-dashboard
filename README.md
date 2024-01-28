@@ -2,7 +2,7 @@
 
 ## Description
 
-I have created a financial dashboard using React JS, Vite, and Tailwind CSS. The purpose of this project is to gain an  experience using Tailwind CSS with React JS.
+I have created a financial dashboard using React JS, Vite, and Tailwind CSS. The purpose of this project is to gain an experience using Tailwind CSS with React JS.
 
 ## Getting Started
 
@@ -37,6 +37,6 @@ To open the current page on a browser, use:
 
 ## Acknowledgments
 
-This is might help you to undertand and enjoy React JS and Tailwind CSS as a web developer.
+This might help you to undertand and enjoy React JS and Tailwind CSS as a web developer.
 
 Learn More here [Mesuna](https://mesuna.netlify.app)
